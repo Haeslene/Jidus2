@@ -1,0 +1,33 @@
+.wrapper{
+  background-color: #19A148;
+  margin: 0 auto;
+}
+.madjidimage{
+  max-width: 200px;
+}
+body{
+  color: white;
+  text-align: center;
+
+
+}
+.field{
+font-family: "Dosis", sans-serif;
+  border: solid  double 2px  white ;
+  padding: 1.5em;
+}
+h1{
+  font-weight:bold;
+}
+
+blockquote{
+  border: 1px 0 solid white;
+  margin: auto;
+  padding: 3rem;
+}
+cite{
+  font-family: Indie Flower, cursive;
+}
+footer{
+  padding-bottom: 3rem;
+}
